@@ -1,6 +1,6 @@
 # Aleksandr S.
 
-    em@il: coucoutide@gmail.com    |   22 yo
+    em@il: coucoutide@gmail.com    |   23 yo
 
 ### I graduated from university with a diploma in ***Finance and Accounting*** a few years ago and after several tries of working by it, found that I would like to apply myself as a programmer.
 ---
