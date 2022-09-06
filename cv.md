@@ -5,9 +5,9 @@
 ### I graduated from university with a diploma in ***Finance and Accounting*** a few years ago and after several tries of working by it, found that I would like to apply myself as a programmer.
 ---
 ## Working experience:
-* Accountant | ***Fungoterra*** | 2 years
-* Financial Analyst Intern | ***Acino*** | 3 months
-* E-commerse Assistant | ***Lovecrafts*** | 3 months
+* Accountant | ***hidden*** | 2 years
+* Financial Analyst Intern | ***hidden*** | 3 months
+* E-commerse Assistant | ***hidden*** | 3 months
 
 ## Skills:
 * SQL
@@ -29,7 +29,7 @@ if (count > 0) return count + " Bet";
 }
 ```
 ## Experience as a ***Junior Dev*** :
-* RSSchool Stage #0
+* RSSchool
 
 ## Education:
 1. Bachelor degree in Corporate Finance and Accounting, University of Economics in Kraków
